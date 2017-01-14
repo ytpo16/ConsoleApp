@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            var k = 1;
-
-            Console.WriteLine("Hello world!");
-        }
     }
 }
