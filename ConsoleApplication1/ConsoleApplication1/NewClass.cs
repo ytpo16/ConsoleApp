@@ -8,9 +8,9 @@ namespace ConsoleApplication1
 {
     class NewClass
     {
-
         public int age { get; set; }
 
         private bool isGood;
+        public string Name { get; set; }
     }
 }
