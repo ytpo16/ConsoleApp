@@ -10,5 +10,7 @@ namespace ConsoleApplication1
     {
 
         public int age { get; set; }
+
+        private bool isGood;
     }
 }
