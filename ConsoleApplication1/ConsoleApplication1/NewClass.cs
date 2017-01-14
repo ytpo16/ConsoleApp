@@ -8,5 +8,6 @@ namespace ConsoleApplication1
 {
     class NewClass
     {
+        public string Name { get; set; }
     }
 }
